@@ -1,0 +1,47 @@
+# Databases
+*.db
+*.db-journal
+*.sqlite3
+dev.db
+nplusone.db
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Go
+golang/main
+golang/*.exe
+golang/*.test
+golang/vendor/
+
+# Python
+python/venv/
+python/.venv/
+python/__pycache__/
+python/*.pyc
+python/*.pyo
+python/*.pyd
+python/.pytest_cache/
+
+# Node.js
+nodejs/node_modules/
+nodejs/.env
+nodejs/npm-debug.log*
+nodejs/yarn-debug.log*
+nodejs/yarn-error.log*
+
+# .NET
+dotnet/**/bin/
+dotnet/**/obj/
+dotnet/**/*.user
+dotnet/**/*.suo
+dotnet/**/*.userosscache
+dotnet/**/*.sln.doccache
+dotnet/.vs/
