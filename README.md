@@ -1,8 +1,8 @@
 # N+1 Problem: A Comparative Study across Multi-Language Ecosystems
 
-github link : https://github.com/maulanaaghnii/n-plus-one-problem
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+github link : https://github.com/maulanaaghnii/n-plus-one-problem
 
 This repository serves as a comprehensive study of the **N+1 Problem** in modern software development. Here, I demonstrate how this issue arises, its impact on application performance, and the appropriate solutions across popular ecosystems: **.NET (C#)**, **Go (Golang)**, **Python**, and **Node.js**.
 
